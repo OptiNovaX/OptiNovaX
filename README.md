@@ -24,14 +24,6 @@ Data  →  Platforms  →  Intelligence  →  AI
 
 ---
 
-### 🧰 My Stack
-
-**Python · PySpark · SQL · Databricks · Spark · Kafka**  
-**Azure · AWS · GCP · Snowflake · Terraform**  
-**Delta Lake · Airflow · dbt · Power BI**
-
----
-
 ### 🧪 Engineering Lab
 
 I'm building and experimenting with practical projects around:
@@ -49,7 +41,7 @@ I'm building and experimenting with practical projects around:
 ### 🌐 Connect
 
 **Website:** [madhanselvam.tech](https://madhanselvam.tech)  
-**LinkedIn:** Madhan Selvam  
+**LinkedIn:** [Madhan Selvam](https://www.linkedin.com/in/madhanselvam/)  
 **GitHub:** [@OptiNovaX](https://github.com/OptiNovaX)
 
 ---
