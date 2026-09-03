@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Madhan Selvam
 
-<!--
-**OptiNovaX/OptiNovaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Principal Engineer | Data • AI • Cloud • Architecture • Platforms**
 
-Here are some ideas to get you started:
+I build **data platforms, intelligent systems, and cloud architectures** that scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring the intersection of:
+
+`Data Engineering` · `AI/GenAI` · `Lakehouse` · `Cloud` · `Platform Engineering` · `Agentic AI`
+
+---
+
+### ⚡ What I Build
+
+```text
+Data  →  Platforms  →  Intelligence  →  AI
+```
+
+- 🏗️ Modern Data & Lakehouse Platforms
+- 🤖 AI / GenAI / Agentic Systems
+- ☁️ Cloud & Distributed Architectures
+- ⚙️ Data Engineering & Platform Automation
+- 🔍 RAG, Semantic Search & AI Agents
+
+---
+
+### 🧰 My Stack
+
+**Python · PySpark · SQL · Databricks · Spark · Kafka**  
+**Azure · AWS · GCP · Snowflake · Terraform**  
+**Delta Lake · Airflow · dbt · Power BI**
+
+---
+
+### 🧪 Engineering Lab
+
+I'm building and experimenting with practical projects around:
+
+- AI-powered Data Engineering
+- DataOps & Platform Agents
+- Enterprise RAG
+- Lakehouse Architecture
+- AI System Design
+
+> **Build → Learn → Share → Repeat**
+
+---
+
+### 🌐 Connect
+
+**Website:** [madhanselvam.tech](https://madhanselvam.tech)  
+**LinkedIn:** Madhan Selvam  
+**GitHub:** [@OptiNovaX](https://github.com/OptiNovaX)
+
+---
+
+*Data × AI × Cloud — building what’s next.*
