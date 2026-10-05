@@ -1,6 +1,6 @@
 # 👋 Madhan Selvam
 
-### **Expert Engineer | Data • AI • Cloud • Architecture • Platforms**
+### **Principal Engineer | Data • AI • Cloud • Architecture • Platforms**
 
 I build **data platforms, intelligent systems, and cloud architectures** that scale.
 
