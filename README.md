@@ -40,7 +40,7 @@ I'm building and experimenting with practical projects around:
 
 ### 🌐 Connect
 
-**Website:** [madhanselvam.tech](https://madhanselvam.tech)  
+**Website:** [madhanselvam.me](https://madhanselvam.me)  
 **LinkedIn:** [Madhan Selvam](https://www.linkedin.com/in/madhanselvam/)  
 **GitHub:** [@OptiNovaX](https://github.com/OptiNovaX)
 
